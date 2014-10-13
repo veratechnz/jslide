@@ -1,3 +1,6 @@
+/*Body*/
+body{background-image:  url('images/sky.jpg');}
+
 /********** SLIDER **********/
 .slider {
   max-width: 940px;
@@ -38,5 +41,6 @@
   color: #ed8e6c;
   cursor: pointer;}
 
+
 /****************Font:****************/
-h1{text-align: center;}
+h1{font-family: 'Russo One', sans-serif; text-align: center; color: #fff; font-size: 30px;}

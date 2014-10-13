@@ -58,7 +58,7 @@ function advance() {
 		} else {
 			move(0);
 		}
-	  }, 4000);
+	  }, 6000);
 	}
 
 $.each($slides, function(index){
